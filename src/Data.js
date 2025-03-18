@@ -10,4 +10,5 @@ export const savingsCards = [
     { title: 'GYM', amount: 50 },
     { title: 'VIAJE', amount: 50 },
     { title: 'TV', amount: 50 },
+    { title: 'VACACIONES', amount: 30000 },
 ];
